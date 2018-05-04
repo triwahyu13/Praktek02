@@ -5,6 +5,8 @@ public class RectangleAksi {
        Rectangle rl = new Rectangle(); 
        rl.panjang = 9;
        rl.lebar = 3;
+       
+       rl.cetakInfo();
     }
                
 }
